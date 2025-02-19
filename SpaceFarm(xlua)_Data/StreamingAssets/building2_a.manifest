@@ -1,0 +1,87 @@
+ManifestFileVersion: 0
+CRC: 88761403
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1d04f0feef249b70eb3d6d87aa3ee22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ArtRes/Building/Building2/Building2_A/15.png
+- Assets/ArtRes/Building/Building2/Building2_A/26.png
+- Assets/ArtRes/Building/Building2/Building2_A/57.png
+- Assets/ArtRes/Building/Building2/Building2_A/12.png
+- Assets/ArtRes/Building/Building2/Building2_A/20.png
+- Assets/ArtRes/Building/Building2/Building2_A/47.png
+- Assets/ArtRes/Building/Building2/Building2_A/33.png
+- Assets/ArtRes/Building/Building2/Building2_A/50.png
+- Assets/ArtRes/Building/Building2/Building2_A/3.png
+- Assets/ArtRes/Building/Building2/Building2_A/39.png
+- Assets/ArtRes/Building/Building2/Building2_A/23.png
+- Assets/ArtRes/Building/Building2/Building2_A/67.png
+- Assets/ArtRes/Building/Building2/Building2_A/63.png
+- Assets/ArtRes/Building/Building2/Building2_A/22.png
+- Assets/ArtRes/Building/Building2/Building2_A/46.png
+- Assets/ArtRes/Building/Building2/Building2_A/10.png
+- Assets/ArtRes/Building/Building2/Building2_A/27.png
+- Assets/ArtRes/Building/Building2/Building2_A/31.png
+- Assets/ArtRes/Building/Building2/Building2_A/7.png
+- Assets/ArtRes/Building/Building2/Building2_A/54.png
+- Assets/ArtRes/Building/Building2/Building2_A/38.png
+- Assets/ArtRes/Building/Building2/Building2_A/18.png
+- Assets/ArtRes/Building/Building2/Building2_A/17.png
+- Assets/ArtRes/Building/Building2/Building2_A/40.png
+- Assets/ArtRes/Building/Building2/Building2_A/45.png
+- Assets/ArtRes/Building/Building2/Building2_A/36.png
+- Assets/ArtRes/Building/Building2/Building2_A/68.png
+- Assets/ArtRes/Building/Building2/Building2_A/52.png
+- Assets/ArtRes/Building/Building2/Building2_A/28.png
+- Assets/ArtRes/Building/Building2/Building2_A/56.png
+- Assets/ArtRes/Building/Building2/Building2_A/14.png
+- Assets/ArtRes/Building/Building2/Building2_A/9.png
+- Assets/ArtRes/Building/Building2/Building2_A/25.png
+- Assets/ArtRes/Building/Building2/Building2_A/1.png
+- Assets/ArtRes/Building/Building2/Building2_A/48.png
+- Assets/ArtRes/Building/Building2/Building2_A/66.png
+- Assets/ArtRes/Building/Building2/Building2_A/16.png
+- Assets/ArtRes/Building/Building2/Building2_A/13.png
+- Assets/ArtRes/Building/Building2/Building2_A/59.png
+- Assets/ArtRes/Building/Building2/Building2_A/35.png
+- Assets/ArtRes/Building/Building2/Building2_A/37.png
+- Assets/ArtRes/Building/Building2/Building2_A/21.png
+- Assets/ArtRes/Building/Building2/Building2_A/49.png
+- Assets/ArtRes/Building/Building2/Building2_A/42.png
+- Assets/ArtRes/Building/Building2/Building2_A/4.png
+- Assets/ArtRes/Building/Building2/Building2_A/60.png
+- Assets/ArtRes/Building/Building2/Building2_A/29.png
+- Assets/ArtRes/Building/Building2/Building2_A/61.png
+- Assets/ArtRes/Building/Building2/Building2_A/58.png
+- Assets/ArtRes/Building/Building2/Building2_A/24.png
+- Assets/ArtRes/Building/Building2/Building2_A/19.png
+- Assets/ArtRes/Building/Building2/Building2_A/0.png
+- Assets/ArtRes/Building/Building2/Building2_A/30.png
+- Assets/ArtRes/Building/Building2/Building2_A/53.png
+- Assets/ArtRes/Building/Building2/Building2_A/6.png
+- Assets/ArtRes/Building/Building2/Building2_A/43.png
+- Assets/ArtRes/Building/Building2/Building2_A/8.png
+- Assets/ArtRes/Building/Building2/Building2_A/65.png
+- Assets/ArtRes/Building/Building2/Building2_A/11.png
+- Assets/ArtRes/Building/Building2/Building2_A/2.png
+- Assets/ArtRes/Building/Building2/Building2_A/41.png
+- Assets/ArtRes/Building/Building2/Building2_A/51.png
+- Assets/ArtRes/Building/Building2/Building2_A/5.png
+- Assets/ArtRes/Building/Building2/Building2_A/34.png
+- Assets/ArtRes/Building/Building2/Building2_A/55.png
+- Assets/ArtRes/Building/Building2/Building2_A/44.png
+- Assets/ArtRes/Building/Building2/Building2_A/32.png
+- Assets/ArtRes/Building/Building2/Building2_A/64.png
+- Assets/ArtRes/Building/Building2/Building2_A/62.png
+Dependencies: []

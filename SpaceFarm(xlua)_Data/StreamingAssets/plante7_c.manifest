@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1039698102
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e33fd631b7fda2060d8cbd24901fbe42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0d677c6dec2405a43fe6dd294cca7c3e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ArtRes/Plante/Plante7/Plante7_C/2.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/19.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/20.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/22.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/10.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/9.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/29.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/1.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/5.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/28.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/4.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/25.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/23.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/14.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/8.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/18.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/13.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/26.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/24.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/11.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/12.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/16.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/6.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/21.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/0.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/17.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/27.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/7.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/15.png
+- Assets/ArtRes/Plante/Plante7/Plante7_C/3.png
+Dependencies: []

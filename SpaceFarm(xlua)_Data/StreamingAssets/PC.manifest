@@ -1,0 +1,142 @@
+ManifestFileVersion: 0
+CRC: 2559673634
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui
+      Dependencies:
+        Dependency_0: audio
+    Info_1:
+      Name: mud1_a
+      Dependencies: {}
+    Info_2:
+      Name: json
+      Dependencies: {}
+    Info_3:
+      Name: mud1_b
+      Dependencies: {}
+    Info_4:
+      Name: mud2_a
+      Dependencies: {}
+    Info_5:
+      Name: mud2_b
+      Dependencies: {}
+    Info_6:
+      Name: plante1_a
+      Dependencies: {}
+    Info_7:
+      Name: plante1_b
+      Dependencies: {}
+    Info_8:
+      Name: plante1_c
+      Dependencies: {}
+    Info_9:
+      Name: plante2_a
+      Dependencies: {}
+    Info_10:
+      Name: plante2_b
+      Dependencies: {}
+    Info_11:
+      Name: plante2_c
+      Dependencies: {}
+    Info_12:
+      Name: plante3_a
+      Dependencies: {}
+    Info_13:
+      Name: plante3_b
+      Dependencies: {}
+    Info_14:
+      Name: plante3_c
+      Dependencies: {}
+    Info_15:
+      Name: plante4_a
+      Dependencies: {}
+    Info_16:
+      Name: plante4_b
+      Dependencies: {}
+    Info_17:
+      Name: plante4_c
+      Dependencies: {}
+    Info_18:
+      Name: plante5_a
+      Dependencies: {}
+    Info_19:
+      Name: plante5_b
+      Dependencies: {}
+    Info_20:
+      Name: plante5_c
+      Dependencies: {}
+    Info_21:
+      Name: plante6_a
+      Dependencies: {}
+    Info_22:
+      Name: plante6_b
+      Dependencies: {}
+    Info_23:
+      Name: plante6_c
+      Dependencies: {}
+    Info_24:
+      Name: plante7_a
+      Dependencies: {}
+    Info_25:
+      Name: plante7_b
+      Dependencies: {}
+    Info_26:
+      Name: plante7_c
+      Dependencies: {}
+    Info_27:
+      Name: building1_a
+      Dependencies: {}
+    Info_28:
+      Name: building1_b
+      Dependencies: {}
+    Info_29:
+      Name: building2_a
+      Dependencies: {}
+    Info_30:
+      Name: building2_b
+      Dependencies: {}
+    Info_31:
+      Name: grid
+      Dependencies:
+        Dependency_0: mud1_a
+        Dependency_1: mud1_b
+        Dependency_2: mud2_a
+        Dependency_3: mud2_b
+        Dependency_4: plante1_a
+        Dependency_5: plante1_b
+        Dependency_6: plante1_c
+        Dependency_7: plante2_a
+        Dependency_8: plante2_b
+        Dependency_9: plante2_c
+        Dependency_10: plante3_a
+        Dependency_11: plante3_b
+        Dependency_12: plante3_c
+        Dependency_13: plante4_a
+        Dependency_14: plante4_b
+        Dependency_15: plante4_c
+        Dependency_16: plante5_a
+        Dependency_17: plante5_b
+        Dependency_18: plante5_c
+        Dependency_19: plante6_a
+        Dependency_20: plante6_b
+        Dependency_21: plante6_c
+        Dependency_22: plante7_a
+        Dependency_23: plante7_b
+        Dependency_24: plante7_c
+        Dependency_25: smoke
+    Info_32:
+      Name: weather
+      Dependencies: {}
+    Info_33:
+      Name: background
+      Dependencies: {}
+    Info_34:
+      Name: lua
+      Dependencies: {}
+    Info_35:
+      Name: audio
+      Dependencies: {}
+    Info_36:
+      Name: smoke
+      Dependencies: {}

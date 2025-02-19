@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1908933085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98780441aeb44298a38ce15d250bb60d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/ArtRes/\u70DF\u96FE/10.png"
+- "Assets/ArtRes/\u70DF\u96FE/12.png"
+- "Assets/ArtRes/\u70DF\u96FE/6.png"
+- "Assets/ArtRes/\u70DF\u96FE/13.png"
+- "Assets/ArtRes/\u70DF\u96FE/18.png"
+- "Assets/ArtRes/\u70DF\u96FE/2.png"
+- "Assets/ArtRes/\u70DF\u96FE/15.png"
+- "Assets/ArtRes/\u70DF\u96FE/7.png"
+- "Assets/ArtRes/\u70DF\u96FE/0.png"
+- "Assets/ArtRes/\u70DF\u96FE/8.png"
+- "Assets/ArtRes/\u70DF\u96FE/14.png"
+- "Assets/ArtRes/\u70DF\u96FE/5.png"
+- "Assets/ArtRes/\u70DF\u96FE/9.png"
+- "Assets/ArtRes/\u70DF\u96FE/11.png"
+- "Assets/ArtRes/\u70DF\u96FE/19.png"
+- "Assets/ArtRes/\u70DF\u96FE/3.png"
+- "Assets/ArtRes/\u70DF\u96FE/17.png"
+- "Assets/ArtRes/\u70DF\u96FE/4.png"
+- "Assets/ArtRes/\u70DF\u96FE/16.png"
+- "Assets/ArtRes/\u70DF\u96FE/1.png"
+Dependencies: []

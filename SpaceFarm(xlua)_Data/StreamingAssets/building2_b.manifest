@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 2259515629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ddcaec3e209ac82f10d783e3ec1e198b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ArtRes/Building/Building2/Building2_B/22.png
+- Assets/ArtRes/Building/Building2/Building2_B/17.png
+- Assets/ArtRes/Building/Building2/Building2_B/11.png
+- Assets/ArtRes/Building/Building2/Building2_B/6.png
+- Assets/ArtRes/Building/Building2/Building2_B/25.png
+- Assets/ArtRes/Building/Building2/Building2_B/3.png
+- Assets/ArtRes/Building/Building2/Building2_B/8.png
+- Assets/ArtRes/Building/Building2/Building2_B/27.png
+- Assets/ArtRes/Building/Building2/Building2_B/23.png
+- Assets/ArtRes/Building/Building2/Building2_B/10.png
+- Assets/ArtRes/Building/Building2/Building2_B/15.png
+- Assets/ArtRes/Building/Building2/Building2_B/2.png
+- Assets/ArtRes/Building/Building2/Building2_B/13.png
+- Assets/ArtRes/Building/Building2/Building2_B/14.png
+- Assets/ArtRes/Building/Building2/Building2_B/1.png
+- Assets/ArtRes/Building/Building2/Building2_B/12.png
+- Assets/ArtRes/Building/Building2/Building2_B/24.png
+- Assets/ArtRes/Building/Building2/Building2_B/0.png
+- Assets/ArtRes/Building/Building2/Building2_B/5.png
+- Assets/ArtRes/Building/Building2/Building2_B/28.png
+- Assets/ArtRes/Building/Building2/Building2_B/20.png
+- Assets/ArtRes/Building/Building2/Building2_B/18.png
+- Assets/ArtRes/Building/Building2/Building2_B/29.png
+- Assets/ArtRes/Building/Building2/Building2_B/21.png
+- Assets/ArtRes/Building/Building2/Building2_B/9.png
+- Assets/ArtRes/Building/Building2/Building2_B/7.png
+- Assets/ArtRes/Building/Building2/Building2_B/16.png
+- Assets/ArtRes/Building/Building2/Building2_B/4.png
+- Assets/ArtRes/Building/Building2/Building2_B/19.png
+- Assets/ArtRes/Building/Building2/Building2_B/26.png
+Dependencies: []

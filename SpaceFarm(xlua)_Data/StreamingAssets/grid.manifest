@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 777775757
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d6a8ba74345918512e44ba05c66fa36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c73f762b547185cc3afa2ba0446eb947
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABRes/Atlas/Static.spriteatlas
+- Assets/ABRes/Prefab/Grid.prefab
+Dependencies:
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/mud1_a
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/mud1_b
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/mud2_a
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/mud2_b
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante1_a
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante1_b
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante1_c
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante2_a
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante2_b
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante2_c
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante3_a
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante3_b
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante3_c
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante4_a
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante4_b
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante4_c
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante5_a
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante5_b
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante5_c
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante6_a
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante6_b
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante6_c
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante7_a
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante7_b
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/plante7_c
+- F:/UnityProject/SpaceFarm(xlua)/AssetBundles/PC/smoke

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3835426122
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cca91134720d4babe9dd0b247c7d0060
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/ABRes/AudioClip/\u5546\u5E97\u9009\u62E9.mp3"
+- Assets/ABRes/AudioClip/CreatePlanteClip.wav
+- Assets/ABRes/AudioClip/ShovelClip.wav
+- Assets/ABRes/AudioClip/CreateMudClip.wav
+- Assets/ABRes/AudioClip/HarvestClip.wav
+- "Assets/ABRes/AudioClip/\u5546\u5E97\u8D2D\u7269\u5B8C\u6210.wav"
+- "Assets/ABRes/AudioClip/\u5897\u7530\u4FCA\u90CE - \u300C\u9732\u3092\u5438\u3046\u7FA4\u300D.mp3"
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1888395188
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 890e3bbc8b5c68cd2f1e6250cbc54d80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4342ec93499c1cc46562ff6785bd4ec5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 260560779fc14014db9fc0bf9ab4f731, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8395bfe2e8595a43aa93a8471bc7bf6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABRes/Prefab/Snow.prefab
+- Assets/ABRes/Prefab/Rain.prefab
+Dependencies: []
